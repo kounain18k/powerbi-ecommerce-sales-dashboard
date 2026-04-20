@@ -25,10 +25,10 @@ Key Metrics :
 * Sales by Region
   
 Insights :
-Identified top performing states contributing maximum revenue
-Analyzed category-wise sales distribution
-Observed monthly fluctuations in profit trends
-Evaluated payment mode usage across customers
+•Identified top performing states •contributing maximum revenue
+•Analyzed category-wise sales distribution
+•Observed monthly fluctuations in profit      trends
+•Evaluated payment mode usage across customers
 
 Files in This Repository :
 data_analytics_pp.pbix → Power BI dashboard file
