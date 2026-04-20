@@ -32,5 +32,7 @@ Evaluated payment mode usage across customers.
 
 Files in This Repository :
 data_analytics_pp.pbix → Power BI dashboard file
+
 Details.csv & Orders.csv→ Dataset used for analysis
-dashboard.png → Preview of the dashboard
+
+dashboard.pdf → Preview of the dashboard
