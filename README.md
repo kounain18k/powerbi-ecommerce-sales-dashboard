@@ -19,6 +19,7 @@ Key Metrics :
 * Quantity Sold
 * Profit by Category
 * Sales by Region
+  
 Insights :
 Identified top performing states contributing maximum revenue
 Analyzed category-wise sales distribution
